@@ -1,1 +1,0 @@
-UPDATE `lab3`.`employees` SET `age`='39' WHERE `employee_id`='7' and`department_id`='4';
